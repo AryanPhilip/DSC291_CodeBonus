@@ -17,3 +17,11 @@ Evaluating the Datasets mentioned in the paper
 | DeBERTa (Large)  | 57.89 | 58.36  | 78.95 | 57.85 | 60.43  | 60.86 |
 
 The **GPT-3.5** model shows competitive performance across various tasks, with notable strengths in MNLI and QQP tasks, achieving an average score of 57.49. This is close to the top-performing model, DeBERTa (Large), which has an average score of 60.86.
+
+### These are the new results for the code tested. We use the latest available models for BERT, RoBERTa and GPT3.5/
+| Model    | SST-2 | MNLI |  RTE  | QNLI  |  QQP  |  Avg  |
+|----------|-------|------|-------|-------|-------|-------|
+| BERT     | 50.67 | 32.23| 56.97 | 50.00 | 41.02 | 50.00 |
+| RoBERTa  | 48.64 | 26.44| 43.20 | 50.02 | 58.97 | 45.45 |
+| GPT 3.5  | 62.84 | 59.60| 48.15 | 51.35 | 63.49 | 57.49 |
+

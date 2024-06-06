@@ -1,0 +1,9 @@
+task,metric,value
+sst2,accuracy,0.4864864864864865
+qqp,accuracy,0.5897435897435898
+qqp,f1,0.0
+mnli,accuracy,0.2644628099173554
+mnli-mm,accuracy,0.37037037037037035
+qnli,accuracy,0.5
+rte,accuracy,0.43209876543209874
+mnli_combined,accuracy,0.31741659014386286
